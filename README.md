@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/svijithprasad"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:071D24,100:00F5A0&height=220&section=header&text=FORLOOP&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=BUILD.%20BREAK.%20LEARN.%20REPEAT.&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Forloop developer banner" /> </a>
+<a href="https://github.com/svijithprasad"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:071D24,100:00F5A0&height=220&section=header&text=S VIJITH PRASAD&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=BUILD.%20BREAK.%20LEARN.%20REPEAT.&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Forloop developer banner" /> </a>
 
 <br/>
 
